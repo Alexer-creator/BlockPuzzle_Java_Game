@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="17a6a335-8265-4c00-8b0e-6d80feb87f9d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sk/tuke/kpi/kp/kp5/blockpuzzle/consoleui/ConsoleUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sk/tuke/kpi/kp/kp5/blockpuzzle/consoleui/ConsoleUI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;or774mr&quot;,
+      &quot;fullname&quot;: &quot;Oleksandr Rybalko&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://git.kpi.fei.tuke.sk/kp-labs/assignments-2025-virtual/kp5/gamestudio-9000.git&quot;,
+    &quot;second&quot;: &quot;62bccae3-08e8-412d-980a-831553946a7f&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2uBRSO3W8ZDB4BJw0JWVT5kfy77" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BlockPuzzle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ManagerJDBC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestJDBC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestManagerJDBC.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;JUnit.BlockTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.BlockTest.testMoveBlockCollision.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.BlocksTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.BlocksTest.testLBlock.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FieldTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.core in BlockPuzzleKp5.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot.GameStudioServer.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringClient.executor&quot;: &quot;Run&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Jet Brains/home/alexer/learningJava/Generics_in_Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Jet Brains\home\alexer\KomponentoveProgramovanie\gamestudio-9000\BlockPuzzleKp5\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sk.tuke.kpi.kp.kp5.blockpuzzle" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="sk.tuke.kpi.kp.kp5.blockpuzzle.core" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BlocksTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlockPuzzleKp5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.BlocksTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlocksTest.testLBlock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlockPuzzleKp5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.BlocksTest" />
+      <option name="METHOD_NAME" value="testLBlock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlocksTest.testMoveBlockCollision" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlockPuzzleKp5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.BlocksTest" />
+      <option name="METHOD_NAME" value="testMoveBlockCollision" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlockPuzzleKp5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core" />
+      <option name="MAIN_CLASS_NAME" value="sk.tuke.kpi.kp.kp5.blockpuzzle.core.FieldTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="core in BlockPuzzleKp5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlockPuzzleKp5" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/sk/tuke/kpi/kp/kp5/blockpuzzle/core" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="BlockPuzzleKp5" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="sk.tuke.kpi.kp.kp5.blockpuzzle.SpringClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.core in BlockPuzzleKp5" />
+        <item itemvalue="JUnit.BlocksTest" />
+        <item itemvalue="JUnit.FieldTest" />
+        <item itemvalue="JUnit.BlocksTest.testLBlock" />
+        <item itemvalue="JUnit.BlocksTest.testMoveBlockCollision" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17a6a335-8265-4c00-8b0e-6d80feb87f9d" name="Changes" comment="" />
+      <created>1741719979746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741719979746</updated>
+      <workItem from="1741719981024" duration="10505000" />
+      <workItem from="1741785769269" duration="22280000" />
+      <workItem from="1741848733946" duration="5651000" />
+      <workItem from="1741889101672" duration="1089000" />
+      <workItem from="1742221388816" duration="22650000" />
+      <workItem from="1742290075736" duration="1769000" />
+      <workItem from="1742302858930" duration="20060000" />
+      <workItem from="1742381148926" duration="15101000" />
+      <workItem from="1742420767567" duration="5128000" />
+      <workItem from="1742462825953" duration="5949000" />
+      <workItem from="1742484974096" duration="1763000" />
+      <workItem from="1742541394046" duration="16930000" />
+      <workItem from="1742810616700" duration="1955000" />
+      <workItem from="1742907597633" duration="25327000" />
+      <workItem from="1742979359823" duration="20621000" />
+      <workItem from="1743103840466" duration="233000" />
+      <workItem from="1743104352233" duration="1263000" />
+      <workItem from="1743272303692" duration="3229000" />
+      <workItem from="1743509995985" duration="803000" />
+      <workItem from="1743619904088" duration="3626000" />
+      <workItem from="1743664075485" duration="22703000" />
+      <workItem from="1744035310299" duration="2934000" />
+      <workItem from="1744116393334" duration="5851000" />
+      <workItem from="1744195240739" duration="16064000" />
+      <workItem from="1744282385370" duration="10174000" />
+      <workItem from="1744526008608" duration="186000" />
+      <workItem from="1744580479683" duration="1905000" />
+      <workItem from="1744657286497" duration="7274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BlockPuzzleKp5$BlockTest.ic" NAME="BlockTest Coverage Results" MODIFIED="1742556159320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>sk.tuke.kpi.kp.kp5.blockpuzzle.core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BlockPuzzleKp5$BlockTest_testMoveBlockCollision.ic" NAME="BlockTest.testMoveBlockCollision Coverage Results" MODIFIED="1742556039337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>sk.tuke.kpi.kp.kp5.blockpuzzle.core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BlockPuzzleKp5$FieldTest.ic" NAME="FieldTest Coverage Results" MODIFIED="1742559046681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>sk.tuke.kpi.kp.kp5.blockpuzzle.core.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BlockPuzzleKp5$BlocksTest.ic" NAME="BlocksTest Coverage Results" MODIFIED="1742559061941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>sk.tuke.kpi.kp.kp5.blockpuzzle.core.*</FILTER>
+    </SUITE>
+  </component>
+</project>
